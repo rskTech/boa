@@ -1,1 +1,0 @@
-1. Modify the program to print your name and the current year.
