@@ -120,3 +120,22 @@ Use -v for verbose output:
 ```
 go test -v ./...
 ```
+## Notes
+
+| Command                            | Purpose                                     |
+| ---------------------------------- | ------------------------------------------- |
+| `go run main.go`                   | Compile and run Go program                  |
+| `go build main.go`                 | Compile Go program into executable          |
+| `go build -o myapp main.go`        | Build with custom output name               |
+| `GOOS=linux GOARCH=amd64 go build` | Cross-compile for different OS/architecture |
+| `go test ./...`                    | Run tests recursively                       |
+
+
+## Exercises 
+- Create a Go program that prints your name and run it using go run.
+
+- Build an executable for your program and run it without go run.
+
+- Cross-compile your program for Windows and Linux.
+
+- Add a simple test to your program and execute it with go test.
