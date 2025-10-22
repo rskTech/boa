@@ -76,3 +76,20 @@ func main() {
 - import "fmt" — Imports the formatting package for input/output.
 - func main() — The entry point of every Go application.
 - fmt.Println — Prints a message to the console.
+---
+## Commands:
+
+| Command                | Description                                               |
+| ---------------------- | --------------------------------------------------------- |
+| `go run <file.go>`     | Compile and run a Go program without generating a binary. |
+| `go build <file.go>`   | Compile Go source code to a binary executable.            |
+| `go fmt <file.go>`     | Format Go code according to standard style.               |
+| `go test`              | Run tests in the current package.                         |
+| `go get <package>`     | Download and install dependencies.                        |
+| `go mod init <module>` | Initialize a new Go module (project).                     |
+| `go mod tidy`          | Remove unused dependencies and add missing ones.          |
+| `go install <package>` | Compile and install a Go package.                         |
+| `go clean`             | Remove object files and cached files.                     |
+| `go doc <package>`     | View documentation for a package.                         |
+| `go list ./...`        | List all packages in the current module.                  |
+---
