@@ -1,14 +1,12 @@
-# Go Course: Introduction to Go (Beginner → Intermediate)
+# Go Course
 
 This repository contains lessons, examples, explanations, and solutions for a Go course
-intended for mixed-level students (beginners and intermediate). Each lesson is structured
-as: theory (README.md), hands-on examples (code/), exercises (exercises.md) and solutions (solution/).
+intended for mixed-level learners. Each lesson is structured as: theory (README.md), hands-on examples (code/), exercises (exercises.md) and solutions (solution/).
 
 **How to use**
-1. Unzip the repo and open it in VS Code (`code go-course-v2`).
+1. Unzip the repo and open it in VS Code (`code go-course`).
 2. Follow lessons in order (01 → 10). Each lesson folder contains `README.md` and runnable examples.
 3. Run `go mod init example.com/lessonX` inside lesson code folders where modules are provided.
-4. Format code: `go fmt ./...`; run tests: `go test ./...` where applicable.
 
 ---
 Lessons included:
