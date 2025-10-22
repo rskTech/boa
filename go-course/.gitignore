@@ -1,0 +1,5 @@
+go-course-v2.zip
+*.exe
+*.out
+*.log
+/vendor
