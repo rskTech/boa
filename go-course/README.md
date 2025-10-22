@@ -1,7 +1,6 @@
-# Go Course: Introduction to Go (Beginner → Intermediate)
+# Go Course:
 
-This repository contains lessons, examples, explanations, and solutions for a Go course
-intended for mixed-level students (beginners and intermediate). Each lesson is structured
+This repository contains lessons, examples, explanations, and solutions for a Go course. Each lesson is structured
 as: theory (README.md), hands-on examples (code/), exercises (exercises.md) and solutions (solution/).
 
 **How to use**
