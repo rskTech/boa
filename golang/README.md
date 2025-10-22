@@ -1,4 +1,4 @@
-# Go Programming Course — (VS Code edition)
+# Go Programming Course
 
 This repository contains step-by-step lessons to teach **Go (Golang)** with an emphasis on using **Visual Studio Code**.  
 Each lesson contains theory, a guided step-by-step lab, starter code, and exercise solutions.
